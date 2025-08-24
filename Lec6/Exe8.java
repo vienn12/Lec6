@@ -12,10 +12,10 @@ public class Exe8 {
             number = v.nextInt();
             
             if (number < 1 || number > 10) {
-                System.out.println("So khong hop le, vui long nhap lai!");
+                System.out.println("So khong hop le, vui long nhap lai");
             }
         } while (number < 1 || number > 10);
         
-        System.out.println("Ban da nhap dung: " + number);
+        System.out.println("da nhap: " + number);
     }
 }
