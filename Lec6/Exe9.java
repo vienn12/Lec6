@@ -9,7 +9,7 @@ public class Exe9 {
         int count = 0;
         int number;
         
-        System.out.println("Nhap cac so nguyen (nhap 0 de dung):");
+        System.out.println("Nhap:");
         
         while (true) {
             number = v.nextInt();
